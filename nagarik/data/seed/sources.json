@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Mock Demo Source",
+    "slug": "mock-demo",
+    "source_type": "central_gov",
+    "trust_label": "official",
+    "base_url": "https://example.gov.in/mock",
+    "adapter_key": "mock",
+    "config_json": {},
+    "active": true
+  },
+  {
+    "name": "Press Information Bureau",
+    "slug": "pib",
+    "source_type": "central_gov",
+    "trust_label": "official",
+    "base_url": "https://pib.gov.in",
+    "adapter_key": "pib",
+    "config_json": { "feed_url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "max_items": 20 },
+    "active": false
+  },
+  {
+    "name": "PRS Legislative Research",
+    "slug": "prsindia",
+    "source_type": "parliament",
+    "trust_label": "third_party",
+    "base_url": "https://prsindia.org",
+    "adapter_key": "prsindia",
+    "config_json": { "feed_url": "https://prsindia.org/rss", "max_items": 15 },
+    "active": false
+  },
+  {
+    "name": "Election Commission Affidavits",
+    "slug": "eci-affidavits",
+    "source_type": "eci",
+    "trust_label": "official",
+    "base_url": "https://eci.gov.in",
+    "adapter_key": "eci_affidavits",
+    "config_json": {},
+    "active": false
+  },
+  {
+    "name": "Delhi Government Press Releases",
+    "slug": "delhi-gov-press",
+    "source_type": "local_gov",
+    "trust_label": "official",
+    "base_url": "https://delhi.gov.in",
+    "adapter_key": "delhi_gov_local",
+    "config_json": { "item_selector": "a.press-release-link", "max_items": 15 },
+    "active": false
+  }
+]

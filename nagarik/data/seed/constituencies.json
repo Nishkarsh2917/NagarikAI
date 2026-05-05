@@ -1,0 +1,37 @@
+[
+  {
+    "name": "New Delhi",
+    "type": "lok_sabha",
+    "number": 2,
+    "state_code": "DL",
+    "district_name": "New Delhi"
+  },
+  {
+    "name": "Chandni Chowk",
+    "type": "lok_sabha",
+    "number": 1,
+    "state_code": "DL",
+    "district_name": "Central Delhi"
+  },
+  {
+    "name": "South Delhi",
+    "type": "lok_sabha",
+    "number": 6,
+    "state_code": "DL",
+    "district_name": "South Delhi"
+  },
+  {
+    "name": "Mumbai South",
+    "type": "lok_sabha",
+    "number": 30,
+    "state_code": "MH",
+    "district_name": "Mumbai City"
+  },
+  {
+    "name": "Bangalore South",
+    "type": "lok_sabha",
+    "number": 24,
+    "state_code": "KA",
+    "district_name": "Bengaluru Urban"
+  }
+]

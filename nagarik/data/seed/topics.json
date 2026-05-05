@@ -1,0 +1,16 @@
+[
+  { "name": "Health", "slug": "health" },
+  { "name": "Education", "slug": "education" },
+  { "name": "Transport", "slug": "transport" },
+  { "name": "Water & Sanitation", "slug": "water-sanitation" },
+  { "name": "Air Quality", "slug": "air-quality" },
+  { "name": "Housing", "slug": "housing" },
+  { "name": "Welfare", "slug": "welfare" },
+  { "name": "Employment", "slug": "employment" },
+  { "name": "Agriculture", "slug": "agriculture" },
+  { "name": "Public Safety", "slug": "public-safety" },
+  { "name": "Taxation", "slug": "taxation" },
+  { "name": "Digital Governance", "slug": "digital-governance" },
+  { "name": "Women & Child", "slug": "women-child" },
+  { "name": "Energy", "slug": "energy" }
+]

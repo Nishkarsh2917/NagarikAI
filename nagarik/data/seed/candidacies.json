@@ -1,0 +1,23 @@
+[
+  {
+    "politician_name": "Demo Candidate One",
+    "constituency_name": "New Delhi",
+    "constituency_type": "lok_sabha",
+    "election_year": 2024,
+    "status": "contesting"
+  },
+  {
+    "politician_name": "Demo Candidate Two",
+    "constituency_name": "New Delhi",
+    "constituency_type": "lok_sabha",
+    "election_year": 2024,
+    "status": "contesting"
+  },
+  {
+    "politician_name": "Demo Candidate Three",
+    "constituency_name": "New Delhi",
+    "constituency_type": "lok_sabha",
+    "election_year": 2024,
+    "status": "contesting"
+  }
+]

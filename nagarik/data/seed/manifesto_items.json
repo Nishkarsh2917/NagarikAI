@@ -1,0 +1,42 @@
+[
+  {
+    "politician_name": "Demo Candidate One",
+    "party": "Demo Party Alpha",
+    "title": "Upgrade three primary health centres in the constituency",
+    "description": "Promised an upgrade of three identified primary health centres to 24x7 facilities by 2026.",
+    "category": "health",
+    "target_year": 2026,
+    "status": "in_progress",
+    "confidence": 0.7
+  },
+  {
+    "politician_name": "Demo Candidate One",
+    "party": "Demo Party Alpha",
+    "title": "Add 50 new electric buses on local routes",
+    "description": "Pledge to add 50 e-buses to existing local route network within the term.",
+    "category": "transport",
+    "target_year": 2027,
+    "status": "promised",
+    "confidence": 0.6
+  },
+  {
+    "politician_name": "Demo Candidate Two",
+    "party": "Demo Party Bravo",
+    "title": "Free wi-fi at every government school",
+    "description": "Promise to install free, supervised wi-fi at all government schools in the constituency.",
+    "category": "education",
+    "target_year": 2026,
+    "status": "promised",
+    "confidence": 0.5
+  },
+  {
+    "politician_name": "Demo Candidate Three",
+    "party": "Demo Party Charlie",
+    "title": "Air quality monitoring at every ward",
+    "description": "Install ward-level PM2.5 monitors with public dashboards.",
+    "category": "air-quality",
+    "target_year": 2025,
+    "status": "promised",
+    "confidence": 0.55
+  }
+]

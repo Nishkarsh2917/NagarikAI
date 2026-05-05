@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Demo Candidate One",
+    "party": "Demo Party Alpha",
+    "photo_url": null,
+    "bio": "Sitting MP for the demo New Delhi constituency. (Fictional candidate used for demonstration. Replace with live ECI affidavit data via the eci_affidavits adapter.)",
+    "official_links_json": { "wiki": null, "twitter": null }
+  },
+  {
+    "name": "Demo Candidate Two",
+    "party": "Demo Party Bravo",
+    "photo_url": null,
+    "bio": "Opposition candidate for the demo New Delhi constituency. (Fictional candidate.)",
+    "official_links_json": {}
+  },
+  {
+    "name": "Demo Candidate Three",
+    "party": "Demo Party Charlie",
+    "photo_url": null,
+    "bio": "Third candidate in the demo race. (Fictional candidate.)",
+    "official_links_json": {}
+  }
+]

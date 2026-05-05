@@ -1,0 +1,44 @@
+[
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/press-001",
+    "title": "Ministry of Health launches expansion of primary health centres in New Delhi",
+    "published_at": "2025-04-28T09:30:00",
+    "body_html": "<p>The Ministry of Health and Family Welfare announced on 28 April 2025 that 12 primary health centres in the New Delhi parliamentary constituency will be upgraded to 24x7 facilities. The scheme has an outlay of Rs 240 crore over two years.</p><p>The upgraded centres will offer round-the-clock outpatient services, basic emergency care, and free essential medicines. Citizens of New Delhi will benefit from reduced wait times at tertiary hospitals.</p><p>Implementation begins on 15 May 2025. The deadline for first-phase upgrades is 31 December 2025. District magistrates have been asked to publish ward-level rollout plans before 10 May 2025.</p><p>The Ministry of Health and the Government of Delhi will jointly monitor progress.</p>"
+  },
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/press-002",
+    "title": "Union Budget 2025-26: Rs 1.2 lakh crore allocated to urban transport",
+    "published_at": "2025-02-01T11:00:00",
+    "body_html": "<p>The Ministry of Finance presented the Union Budget for 2025-26 on 1 February 2025. A total outlay of Rs 1,20,000 crore has been allocated to urban transport infrastructure.</p><p>Of this, Rs 8,500 crore is earmarked for electric bus procurement, including 50 e-buses for the New Delhi constituency. The amount is sanctioned over the fiscal year 2025-26.</p><p>Citizens commuting on local routes are expected to benefit. Implementation will be coordinated by the Ministry of Housing and Urban Affairs.</p>"
+  },
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/press-003",
+    "title": "PM2.5 monitoring expanded across Delhi wards under new air quality scheme",
+    "published_at": "2025-03-15T14:20:00",
+    "body_html": "<p>The Government of Delhi, in coordination with the Central Pollution Control Board, will install PM2.5 monitors in every ward of Delhi by 31 December 2025. The total project cost is Rs 45 crore.</p><p>Live readings will be made available to the public via a dashboard maintained by the Delhi government. Residents of New Delhi, South Delhi and Central Delhi districts are expected to be the primary beneficiaries.</p><p>The scheme was approved on 10 March 2025. Procurement deadlines are set for 30 April 2025.</p>"
+  },
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/bill-001",
+    "title": "The Digital India Public Services Bill, 2025 — introduced in Lok Sabha",
+    "published_at": "2025-03-22T16:45:00",
+    "body_html": "<p>The Ministry of Electronics and Information Technology introduced the Digital India Public Services Bill, 2025 in the Lok Sabha on 22 March 2025. The bill proposes a unified citizen portal for accessing 200+ government services.</p><p>Key provisions include a single-sign-on for public services, mandatory grievance-redressal timelines of 30 days, and the right to a digitally signed acknowledgement for every service request.</p><p>The bill, if passed, would apply to all citizens and to ministries of the central government. Standing Committee referral was proposed during introduction.</p>"
+  },
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/local-001",
+    "title": "Delhi Government issues guidelines for free wi-fi at government schools",
+    "published_at": "2025-04-10T10:00:00",
+    "body_html": "<p>The Government of Delhi released guidelines on 10 April 2025 for installation of free, supervised wi-fi at all government schools across the National Capital Territory. The scheme covers approximately 1,030 schools.</p><p>Each school will receive a budget of Rs 2.5 lakh for setup and Rs 30,000 per year for maintenance. Schools must complete installation before 31 August 2025.</p><p>Students of government schools in New Delhi and other districts will benefit. Headmasters are required to file a compliance report by 15 September 2025.</p>"
+  },
+  {
+    "source_slug": "mock-demo",
+    "source_url": "https://example.gov.in/mock/press-004",
+    "title": "Subsidised water connection scheme extended to all unauthorised colonies",
+    "published_at": "2025-04-22T12:30:00",
+    "body_html": "<p>The Delhi Jal Board announced on 22 April 2025 that the subsidised water connection scheme will be extended to all unauthorised colonies in Delhi. The application fee is reduced from Rs 2,310 to Rs 100.</p><p>The Ministry of Housing and Urban Affairs has approved the extension. Residents of unauthorised colonies in New Delhi and Central Delhi districts can apply through the Jal Board portal.</p><p>The window for subsidised applications opens on 1 May 2025 and closes on 31 December 2025.</p>"
+  }
+]

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+.next/
+out/
+.env.local
+.env*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Object storage (raw payloads — content-addressed, regenerated on ingest)
+data/storage/*
+!data/storage/.gitkeep
+
+# Pytest cache
+.pytest_cache/

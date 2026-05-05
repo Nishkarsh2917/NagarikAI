@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Editorial type setup. Display: Fraunces (serif w/ character). Body: IBM Plex Sans. */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-body);
+    color: #181715;
+    background: #f6f1e6;
+    /* Subtle paper grain — readable, not noisy. */
+    background-image:
+      radial-gradient(rgba(40, 30, 15, 0.025) 1px, transparent 1px),
+      radial-gradient(rgba(40, 30, 15, 0.018) 1px, transparent 1px);
+    background-size: 3px 3px, 7px 7px;
+    background-position: 0 0, 1px 2px;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.012em;
+  }
+  /* Reduce default link styling — we use it intentionally */
+  a { color: inherit; }
+}
+
+@layer components {
+  /* Editorial ruled line — used as section separators. */
+  .ruled {
+    border-top: 1px solid #d8cfb8;
+    background-image: linear-gradient(to right, #181715 0, #181715 60px, transparent 60px);
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 -1px;
+  }
+  /* Small caps label, used for metadata. */
+  .label-caps {
+    font-family: var(--font-body);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.7rem;
+    color: #6a6258;
+  }
+  /* Serial-number style identifier, top-right of editorial pages. */
+  .ident {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: #6a6258;
+    letter-spacing: 0.04em;
+  }
+  /* Dropcap for the lede. */
+  .dropcap::first-letter {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 3.4em;
+    float: left;
+    line-height: 0.9;
+    margin: 0.08em 0.08em 0 -0.04em;
+    color: #1f3d80;
+  }
+}
+
+/* Custom selection — Ashoka blue */
+::selection { background: #1f3d80; color: #f6f1e6; }
